@@ -15,7 +15,7 @@
 * 📫 How to reach me: joaovenanciogtr@gmail.com<br><br>
 
 
-#### :newspaper: Social media
+#### :earth_americas: Social media
 
 <p align="left">
 <a href="https://linkedin.com/in/joao-paulo-venancio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joao-paulo-venancio" height="30" width="40" /></a>
@@ -38,7 +38,7 @@
 <img align="left" alt="Postman" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /><br><br><br>
 
 
-#### 🛠️ Stats
+#### ⚡ Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaopaulovenancio&show_icons=true&locale=en" alt="joaopaulovenancio" /></p>
 
 <details>
@@ -47,13 +47,4 @@
 
 I'm an android developer looking every day to solve real world problems through code. As a developer I seek to create solutions with quality and responsibility. My creative process always starts with something functional and then refactored so that it benefits not only users but also other developers who can contribute to my projects.
 
-
 </details>
-
-
-
-
-
-
-
-
