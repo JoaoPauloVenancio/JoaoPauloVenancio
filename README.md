@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hello World, 👋 I'm Joao Paulo
+### Hello World, 👋 I'm Joao Paulo 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=0BC30CD4&center=true&vCenter=true&width=435&lines=Android+developer;Learn%2C+build%2C+repeat;Good+things+take+time+be+patient)](https://git.io/typing-svg)
 
